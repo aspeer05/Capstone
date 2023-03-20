@@ -1,5 +1,5 @@
 # Capstone
-My capstone project for Masters in Data Analytics from NWMS University
+Capstone project for Masters in Data Analytics from NWMS University.  This report and study is authored by Amber Speer.
 
 ## Introductions
 This project will be to analyze housing prices based on a myriad of factors.  The goal is to demonstrate a project that could answer the questions:
