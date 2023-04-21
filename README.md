@@ -1,7 +1,7 @@
 # Capstone
 Capstone project for Masters in Data Analytics from NWMS University.  This report and study is authored by Amber Speer.
 
-## Author: Amber Speer
+### Author: Amber Speer
 
 ## Code Sources
 ### Ken Jee - Data Project from Scratch video series
