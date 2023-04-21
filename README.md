@@ -1,6 +1,16 @@
 # Capstone
 Capstone project for Masters in Data Analytics from NWMS University.  This report and study is authored by Amber Speer.
 
+## Author: Amber Speer
+
+## Code Sources
+### Ken Jee - Data Project from Scratch video series
+Video Link: <https://www.youtube.com/watch?v=7O4dpR9QMIM>
+GitHub Repo Link: <https://github.com/PlayingNumbers/ds_salary_proj>
+
+### GreekDataGuy
+<https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2>   
+
 ## Introduction
 This project analyzes housing prices based on a myriad of factors.  The goal is to demonstrate a project that could answer the questions:
 1.	How much is this house worth?
