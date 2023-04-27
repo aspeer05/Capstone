@@ -20,3 +20,18 @@ the purpose of this project is to demonstrate the author’s analytical skills, 
 
 ## Project Report
 The entire project report can be found at: <https://www.overleaf.com/read/dwwyzmrrvpzn>
+
+## Project Files
+In the HousingPriceData folder you will find all the files for the project.  They are as follows:
+
+FlaskAPI folder: Contains all the files for the deployment API.  (This is currently a work in progress and not yet completed.
+image folder: Contains all images used in the project
+HousePricePredictionProject.ipynb: Jupyter notebook file with python code for the project
+cleandf: Excel workbook used to explore and clean the data (using train.csv data)
+cleantrain.csv: CSV data file created from Excel workbook to train models (cleaned from train.csv)
+data_description.txt: Text file of attribute and data description downloaded with dataset
+model_file.p: File created for API to store and transfer pickled data
+Results.xlsx: Spreadsheet to create HomeValueGraph
+test.csv: CSV file with test data downloaded with dataset (not used in order to showcase ablity to split data).
+train.csv: Dataset used for project, downloaded from Kaggle link above.
+
