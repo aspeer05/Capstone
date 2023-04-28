@@ -48,9 +48,9 @@ TotalFinSF = (TotalBsmtSF − BsmtUnfSF) + GrLivArea
 
 ![Heatmap of correlation between attributes shows a positive correlation
 between TotalFinSF, TotRmsAbvGrd, and GarageCars and SalePrice, but a
-slight negative correlation between BedroomsRatio and SalePrice](./images/heatmap.png "Correlation Heatmap")
+slight negative correlation between BedroomsRatio and SalePrice](HousingPriceData/images/heatmap.png "Correlation Heatmap")
 
 The heatmap was then run again (see above figure). The attributes with the highest correlation to SalesPrice are TotalFinSF, TotalBath, TotalRmsAbvGr, and GarageCars. The highest and most unexpected correlation was GarageCars. Pair plot and relational plots were done on these attribute to confirm the positive correlation. The most telling plot was a relational plot between SalesPrice and
 TotalFinSF with GarageCars set as a hue (see figure below).
 
-![Relational plot between SalesPrice and TotalFinSF attributes with hue set on GarageCars attribute shows SalePrice rises with TotalFinSF and GarageCars](./images/RelationalPlot.png "Correlation Heatmap")
+![Relational plot between SalesPrice and TotalFinSF attributes with hue set on GarageCars attribute shows SalePrice rises with TotalFinSF and GarageCars](./HousingPriceData/images/RelationalPlot.png "Correlation Heatmap")
