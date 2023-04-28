@@ -125,8 +125,12 @@ to input their own data into the model and receive Sale Price predictions.
 ## References
 
 Cock, D.D.: Ames housing dataset, <https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques>
+
 GreekDataGuy: Data science project from scratch, <https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2> 
+
 Jee, K.: Data science project from scratch, <https://github.com/PlayingNumbers/ds_salary_proj>
+
 Sigur: Response to ’how to present a python code snippet efficiently in latex?’, <https://tex.stackexchange.com/questions/475826/how-to-present-a-python-code-snippet-efficiently-in-latex>
+
 Speer, A.: Capstone pipeline (2023), <https://github.com/aspeer05/Capstone>
 
